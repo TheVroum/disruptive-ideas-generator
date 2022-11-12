@@ -5,7 +5,7 @@
   "main": "npm-index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "sass": "sass --watch ./sass/main.scss:./css/style.css --style compressed"
+    "sass": "sass --watch ./style/main.scss:./css/style.css --style compressed"
   },
   "repository": {
     "type": "git",
