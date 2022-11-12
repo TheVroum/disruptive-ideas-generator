@@ -1,0 +1,19 @@
+{
+  "name": "disruptive-ideas-generator",
+  "version": "1.0.0",
+  "description": "Générateur d'idée de startup disruptives pour la nouvelle ère de l'internet",
+  "main": "npm-index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheVroum/disruptive-ideas-generator.git"
+  },
+  "author": "Mathieu Schaff & Jean Oustry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheVroum/disruptive-ideas-generator/issues"
+  },
+  "homepage": "https://github.com/TheVroum/disruptive-ideas-generator#readme"
+}
