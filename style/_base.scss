@@ -61,11 +61,14 @@ body {
 }
 
 
-
-em#gentils-arbres
+header
 {
-  font-style: normal;
-  
+  background-color: $secondary-color;
+  padding: 2em;
+  em#gentils-arbres
+  {
+    font-style: normal;
+  }
 }
 
 
